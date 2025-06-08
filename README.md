@@ -1,4 +1,4 @@
-# LLM_SearchEngine
+# Research_Assistant
 
 Research Assistant using OpenAI Chat API and Google Custom Search API
 =======================================================================
